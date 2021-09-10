@@ -1,4 +1,6 @@
 
+// json file read and write
+
 const json_in = require('./data.json');
 console.log(json_in);
 

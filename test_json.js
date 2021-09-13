@@ -1,3 +1,6 @@
+#! /usr/bin/env node
+
+'use strict'
 
 // json file read and write
 
